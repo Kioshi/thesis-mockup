@@ -5,35 +5,60 @@
             "date": "2020-04-30 13:27:00",
             "nrOfPeople": 2,
             "name": "Štěpán Martínek",
-            "phoneNr": "+4500000000"
+            "phoneNr": "+4500000000",
+            "state": "confirmed",
+            "userId": 1,
+            "restaurantId": 1
         },
         {
             "id": 2,
             "date": "2020-04-30 10:20:00",
             "nrOfPeople": 5,
             "name": "Štěpán Martínek",
-            "phoneNr": "+4500000000"
+            "phoneNr": "+4500000000",
+            "state": "confirmed",
+            "userId": 1,
+            "restaurantId": 2
         },
         {
             "id": 3,
             "date": "2020-04-30 03:30:00",
             "nrOfPeople": 2,
             "name": "Štěpán Martínek",
-            "phoneNr": "+4500000000"
+            "phoneNr": "+4500000000",
+            "state": "no_show",
+            "userId": 1,
+            "restaurantId": 3
         },
         {
             "id": 4,
             "date": "2020-04-30 13:00:00",
             "nrOfPeople": 3,
             "name": "Evzen",
-            "phoneNr": "+4500000000"
+            "phoneNr": "+4500000000",
+            "state": "canceled_by_restaurant",
+            "userId": 1,
+            "restaurantId": 4
         },
         {
             "id": 5,
             "date": "2020-04-30 19:57:00",
             "nrOfPeople": 1,
             "name": "Pepa",
+            "phoneNr": "+4500000000",
+            "state": "confirmed",
+            "userId": 1,
+            "restaurantId": 2
+        }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "name": "Štěpán Martínek",
             "phoneNr": "+4500000000"
         }
+    ],
+    "restaurants": [
+        
     ]
 }
