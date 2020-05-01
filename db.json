@@ -8,7 +8,8 @@
             "phoneNr": "+4500000000",
             "state": "confirmed",
             "userId": 1,
-            "restaurantId": 1
+            "restaurantId": 1,
+            "restaurantName": "U previta"
         },
         {
             "id": 2,
@@ -18,7 +19,8 @@
             "phoneNr": "+4500000000",
             "state": "confirmed",
             "userId": 1,
-            "restaurantId": 2
+            "restaurantId": 2,
+            "restaurantName": "Na namesti"
         },
         {
             "id": 3,
@@ -28,7 +30,8 @@
             "phoneNr": "+4500000000",
             "state": "no_show",
             "userId": 1,
-            "restaurantId": 3
+            "restaurantId": 3,
+            "restaurantName": "Zumpa"
         },
         {
             "id": 4,
@@ -38,7 +41,8 @@
             "phoneNr": "+4500000000",
             "state": "canceled_by_restaurant",
             "userId": 1,
-            "restaurantId": 4
+            "restaurantId": 4,
+            "restaurantName": "Xixao"
         },
         {
             "id": 5,
@@ -48,7 +52,8 @@
             "phoneNr": "+4500000000",
             "state": "confirmed",
             "userId": 1,
-            "restaurantId": 2
+            "restaurantId": 2,
+            "restaurantName": "Na namesti"
         }
     ],
     "users": [
